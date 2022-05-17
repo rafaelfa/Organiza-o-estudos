@@ -1,0 +1,22 @@
+Iniciar
+$git init
+
+Configuração inicial
+$git config --gçobal user.email ""
+$git config --global user.name ""
+
+$git add *
+$git commit -m""
+$git status
+
+Add repositorio no github
+$git remote add origin
+
+Subindo os Arquivos 
+$git push origin master
+
+Clonando repositorio 
+$git clone "URL"
+
+Add todos os arquivos 
+$git add.

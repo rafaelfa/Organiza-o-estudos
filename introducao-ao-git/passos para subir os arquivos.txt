@@ -1,0 +1,15 @@
+clonar o repositorio 
+$git clone "URL"
+
+Apos realizar as alterações desejadas no arquivos local 
+$git add .
+
+agora realizar o commit
+$git commit -m "mensagem para controle de versão"
+
+Realizar o push (envio dos arquivos para o github)
+$git push origin main
+
+
+
+
